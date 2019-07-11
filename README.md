@@ -1,6 +1,6 @@
 # TheAlfredATV
 
-The Alfred is A Controlling All-Terrain Vehicle Using Bluetooth. 
+### The Alfred is A Controlling All-Terrain Vehicle Using Bluetooth. 
 We used Arduino Uno and Bluetooth.
 
 You can find more detail in the file "Term-Paper-CSE341-v2.0.pdf".
